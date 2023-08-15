@@ -7,7 +7,7 @@
 
 # ♾️ Open To Work
 ### 💻 <code>NodeJS Backend Developer</code>
-### 📍*Cork, Ireland*
+### 📍*Irpin, Ukraine*
 
 
 <!--

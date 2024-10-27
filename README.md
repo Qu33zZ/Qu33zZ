@@ -6,8 +6,7 @@
 </a>
 
 # ♾️ Open To Work
-### 💻 <code>NodeJS Backend Developer</code>
-### 📍*Irpin, Ukraine*
+### 💻 <code>Software Engineer</code>
 
 
 <!--
